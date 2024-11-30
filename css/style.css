@@ -37,7 +37,7 @@ li a {
 }
 
 .s1 {
-    background-image: url("../images/banner.jpg");
+    background-image: url("https://s3-alpha-sig.figma.com/img/8dd0/a521/be68616e61590a62c37a70d547c5921c?Expires=1733702400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WluJrY5SbWHBTxcrTQU4L5~33cKDAjgeMQPsfTLwUkZVCM5AaFJi41wwcwwmOBRl4g5bTzzJSmTpRlE0gRProzZnJ31jOhqri4yYyYwwRQRvU6At2FiSOuHQq6Nh7-8KIMNXWkdVYu1Hi5jpcMma9SBVvpZSDGNCSItlwcBn8rgMkhFNhx0LWaiBlPuYizXXx5GvgNa2FOaXE672Y45blednLDuCtdRlZyXQqrqjgCtg7sssCNE0DBNXzJ-925M~kgveV~2Qj09X9JMqyFIzoIZkCO3ejpQn43RdF1HNkT6I141tLsDqQXfp52mMDVPjIblomIBC-T2ubvrdWz4ynw__");
     background-color: blue;
     background-repeat: no-repeat;
     background-size: cover;
@@ -139,6 +139,8 @@ li a {
 .card img {
     width: 100%;
     margin-bottom: 23px;
+    width: 286px;
+height: 195px;
 }
 
 .card h3 {
